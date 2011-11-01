@@ -1,0 +1,1 @@
+"scripts": { "start": "coffee server.coffee" }
